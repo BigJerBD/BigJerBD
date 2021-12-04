@@ -19,9 +19,10 @@ class BigJerBD:
         self.expertise = {
             "backend",
             "google_cloud",            
+            "apche_beam",
+            "terraform",        
             "data_engineering",
-            "serverless",
-            "terraform"            
+            "serverless"
         }
 
         self.technologies =  {
