@@ -16,7 +16,7 @@ class BigJerBD:
             "kotlin/scala"       
         }
 
-        self.specialization = {
+        self.expertise = {
             "backend",
             "google_cloud",            
             "data_engineering",
