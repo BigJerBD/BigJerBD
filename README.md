@@ -28,7 +28,7 @@ class BigJerBD:
         self.technologies =  {
             'backend': ["django", "fast_api", "flask", "ruby_on_rails", "actix_web"],
             'data': ['apache_beam', 'dataflow', 'pandas', 'spark'],
-            'devops': ['docker', 'google_cloud_plateform', 'terraform', 'firebase'],
+            'devops': ['docker', 'google_cloud_platform', 'terraform', 'firebase'],
             'database': ['sql', 'mongodb', 'arangodb', 'firestore'],
             'frontend': ["Vue", "flutter", "javascript", "html"],
         }
