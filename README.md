@@ -1,14 +1,13 @@
 
 ```python
-# Todo: Refactor to a NamedTuple
-class BigJerBD:
+class BigJerBD(Engineer):
 
     def __init__(self):
         self.username = 'bigjerbd'
         self.name = 'Jérémie Bigras-Dunberry'
         self.email = 'bigjerbd@gmail.com'
         
-        self.favorite_languages = {
+        self.programming_languages = {
             "python",
             "rust",
             "dart"               
@@ -17,20 +16,20 @@ class BigJerBD:
         }
 
         self.expertise = {
-            "backend",
+            "microservices",
             "google_cloud",            
-            "apche_beam",
-            "terraform",        
+            "apache_beam",
+            "stream_processing",        
             "data_engineering",
             "serverless"
         }
 
         self.technologies =  {
-            'backend': ["django", "fast_api", "flask", "ruby_on_rails", "actix_web"],
+            'backend': ["django", "fast_api", "ruby_on_rails", "actix_web"],
             'data': ['apache_beam', 'dataflow', 'pandas', 'spark'],
-            'devops': ['docker', 'google_cloud_platform', 'terraform', 'firebase'],
-            'database': ['sql', 'mongodb', 'arangodb', 'firestore'],
-            'frontend': ["Vue", "flutter", "javascript", "html"],
+            'infrastructure': ['google_cloud_platform', 'terraform/pulumi'],
+            'database': ['sql', 'mongodb', 'bigquery', 'firestore'],
+            'frontend': ["Vue", "flutter", "typescript"],
         }
 
     def __str__(self):
