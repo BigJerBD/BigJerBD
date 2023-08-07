@@ -41,12 +41,6 @@ if __name__ == '__main__':
     me = BigJerBD()
 ```
 
-#### Stats : 
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=bigjerbd&theme=tokyonight&count_private=true&hide=contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bigjerbd&theme=tokyonight&hide=jupyter%20notebook&count_private=true&langs_count=8&layout=compact)](https://github.com/bigjerbd/github-readme-stats)
-
 Links:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bigjerbd)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremie-bigras-dunberry-228b40128/)
