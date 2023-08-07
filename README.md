@@ -40,7 +40,7 @@ if __name__ == '__main__':
     me = BigJerBD()
 ```
 
-Links:
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bigjerbd)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremie-bigras-dunberry-228b40128/)
 
