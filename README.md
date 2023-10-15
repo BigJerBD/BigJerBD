@@ -10,8 +10,9 @@ class BigJerBD(Engineer):
         self.programming_languages = {
             "python",
             "rust",
-            "dart"               
+            "go",            
             "ruby",
+            "dart"   
             "kotlin/scala"       
         }
 
@@ -42,7 +43,7 @@ if __name__ == '__main__':
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bigjerbd)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremie-bigras-dunberry-228b40128/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/bigjerbd)
 
 
 
